@@ -1,4 +1,4 @@
-## Space Game
+# Space Game
 
 This project aims to design a space-themed arcade game using an Arduino microcontroller. Players control a spaceship to avoid and destroy meteors while scoring points. 
 The game features random meteor falls, player movement using a potentiometer, and a scoring system with LEDs. The game is displayed on a small OLED screen and controlled by an Arduino Uno.
